@@ -1,1 +1,1 @@
-// Add JavaScript code here
+the vanilla JavaScript string from the code generation step
